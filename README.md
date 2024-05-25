@@ -1,8 +1,8 @@
 # ROBLOX-Admin-Pinger
 Use for events, when admins give items.
 
-Setup: \n
-• Create a bot in BotFather
-• Use pip install telebot, telegrambotapi
-• Change Token in code
-• Ready!
+Setup:
+1. Create a bot in BotFather
+2. Use pip install telebot, telegrambotapi
+3. Change Token in code
+4. Ready!
